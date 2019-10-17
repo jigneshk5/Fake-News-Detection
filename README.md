@@ -1,2 +1,2 @@
-# flask_app-Fact_or_Fake-Fake_News_Detector
-Code for flask app to detect fake news articles
+# Flask App for fake News Detection
+Datasets:- https://github.com/KaiDMML/FakeNewsNet
